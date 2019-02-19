@@ -1,0 +1,1 @@
+print('Allooo wooorld')
